@@ -1,6 +1,6 @@
 # RedStore — E-Commerce Website
 
-[![Preview](https://via.placeholder.com/600x300?text=RedStore+Preview)](#)
+[![Preview](assets/images/preview.png)](https://redmart.netlify.app/)
 
 A **responsive e-commerce website** built with **HTML, CSS, JavaScript, and PHP**, integrated with **Razorpay API** for secure online payments.  
 
