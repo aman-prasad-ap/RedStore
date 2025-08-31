@@ -47,6 +47,8 @@ It’s built to demonstrate **full-stack web development** concepts with a worki
 
 ## 📂 Project Structure
 
+<img width="1316" height="666" alt="image" src="https://github.com/user-attachments/assets/e3c44ff6-2bd7-4aaa-b6f1-3d60d8b8d7a7" />
+
 RedStore/
 ├── index.php              # Homepage
 ├── products.php           # Product Listing
