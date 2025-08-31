@@ -48,20 +48,25 @@ It’s built to demonstrate **full-stack web development** concepts with a worki
 ## 📂 Project Structure
 
 RedStore/
-├── index.html / index.php # Homepage
-├── products.php # Product Listing
-├── product-details.php # Product Details
-├── cart.php # Shopping Cart
-├── checkout.php # Checkout Page
-├── payment.php # Razorpay integration backend
-├── config.php # Database / API Configurations
+├── index.php              # Homepage
+├── products.php           # Product Listing
+├── product-details.php    # Product Details
+├── cart.php               # Shopping Cart
+├── checkout.php           # Checkout Page
+├── payment.php            # Razorpay integration backend
+├── config.php             # Database / API Configurations
+│
 ├── css/
-│ └── style.css # Styling
+│   └── style.css          # Styling
+│
 ├── js/
-│ └── main.js # Frontend interactivity
+│   └── main.js            # Frontend interactivity
+│
 ├── assets/
-│ └── images/ # Product & UI images
+│   └── images/            # Product & UI images
+│
 └── README.md
+
 
 ---
 
