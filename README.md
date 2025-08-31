@@ -125,8 +125,6 @@ RedStore/
 
 ---
 
----
-
 👉 This README now highlights:
 - Your **PHP backend**  
 - **Razorpay integration**  
